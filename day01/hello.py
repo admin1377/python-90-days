@@ -1,0 +1,6 @@
+name = input("请输入你的名字:")
+date = input("请输入今天的日期:")
+goal = input("请输入你的目标:")
+print('我的名字是' + name)
+print('今天的日期是' +date)
+print('我的目标是' + goal)
